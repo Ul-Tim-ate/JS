@@ -113,5 +113,5 @@ for (let word of appData.addExpenses) {
     word = word.charAt(0).toUpperCase() + word.substr(1);
 	answer[i++] = word;
 }
-let answer2 = answer.join();
+let answer2 = answer.join([', ']);
 console.log(answer2);
