@@ -21,25 +21,3 @@ let calculate = document.getElementById('start'),
 	targetAmount = document.querySelector('.target-amount'),
 	periodSelect = document.querySelector('.period-select');
 
-// console.log(calculate);
-// console.log(btnPlusExpensesAdd);
-// console.log(btnPlusIncomeAdd);
-// console.log(depositCheck);
-// console.log(additionalIncomeItem1);
-// console.log(additionalIncomeItem2);
-// console.log(budgetDayValue);
-// console.log(expensesMonthValue);
-// console.log(additionalIncomeValue);
-// console.log(additionalExpensesValue);
-// console.log(incomePeriodValue);
-// console.log(targetMonthValue);
-// console.log(salaryAmount);
-// console.log(incomeTitle);
-// console.log(incomeAmount);
-// console.log(expensesTitle);
-// console.log(expensesAmount);
-// console.log(additionalExpensesItem);
-// console.log(depositAmount);
-// console.log(depositPercent);
-// console.log(targetAmount);
-// console.log(periodSelect);
